@@ -1,0 +1,98 @@
+<!-- //////////////////// WHOLE THING //////////////////// -->
+<div class="container p-0">
+    <div class="row no-gutters bg-faded p-3 d-flex justify-content-center row-cols-3" style="border-radius: 5px">
+        
+        <!-- //////////////////// FIRST COLUMN //////////////////// -->
+        <div class="col">
+            <div class="card border-0">
+                    
+                    <!-- //////////////////// LEFT STATS //////////////////// -->
+                    <div id="one" class="fade show active p-2">
+                        
+                        <div class="justify-content-between mb-2">
+                            <p class="text-primary">HOSTILE</p>
+                            <hr class="flex-fill my-auto mx-2"> 
+                            </div>
+                        <div class="justify-content-between mb-2">
+                            <p class="text-primary">ANTICIPATORY</p>
+                            <hr class="flex-fill my-auto mx-2">
+                            </div>
+                        <div class="justify-content-between mb-2">
+                            <p class="text-primary">CHEERFUL</p>
+                            <hr class="flex-fill my-auto mx-2"> 
+                            </div>
+                        <div class="justify-content-between mb-2">
+                            <p class="text-primary">TRUSTING</p>
+                            <hr class="flex-fill my-auto mx-2">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+         <!-- //////////////////// SECOND COLUMN //////////////////// -->
+         <div class="col-0">
+             <div class= "card border-0">  
+                 
+                  <!-- //////////////////// MIDDLE STATS //////////////////// -->
+                  <div id="two" class="fade show active p-2">
+                      
+                         <div class="text-center mb-2">
+                           <i class="fas fa-circle"></i>
+                           <i class="fas fa-circle"></i>
+                           <i class="fas fa-circle"></i>
+                           <i class="fas fa-circle"></i>
+                           <i class="fas fa-circle"></i>
+                           </div>
+                         <div class="text-center mb-2">
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            </div>
+                         <div class="text-center mb-2">
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            </div>
+                          <div class="text-center mb-2">
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            </div>
+                      </div>
+                 </div>
+             </div>
+             
+             <!-- //////////////////// THIRD COLUMN //////////////////// -->
+             <div class="col">
+                 <div class="card border-0">
+                     
+                     <!-- //////////////////// RIGHT STATS //////////////////// -->
+                     <div id="three" class="fade show active p-2">
+                        
+                        <div class="justify-content-between mb-2">
+                            <hr class="flex-fill my-auto mx-2"> 
+                            <p class="text-primary">FRIGHTFUL</p>
+                            </div>
+                        <div class="justify-content-between mb-2">
+                            <hr class="flex-fill my-auto mx-2">
+                            <p class="text-primary">SURPRISED</p>
+                            </div>
+                        <div class="justify-content-between mb-2">
+                            <hr class="flex-fill my-auto mx-2"> 
+                            <p class="text-primary">HOSTILE</p>
+                            </div>
+                        <div class="justify-content-between mb-2">
+                            <hr class="flex-fill my-auto mx-2">
+                            <p class="text-primary">ANTICIPATORY</p>
+                            </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </div>
